@@ -1,2 +1,0 @@
-# dtgenergy
-WEB DTG ENERGY
